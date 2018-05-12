@@ -1,0 +1,33 @@
+_repo: Siska-van-Roosemael_31052
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conscience, Hendrik
+    aliases:
+    - Conscience, Henryk
+    - Conscience, Henri
+    birthdate: 1812
+    deathdate: 1883
+    gutenberg_agent_id: '3882'
+    url: http://www.gutenberg.org/2009/agents/3882
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hendrik_Conscience
+    - http://nl.wikipedia.org/wiki/Hendrik_Conscience
+description: ''
+gutenberg_issued: '2010-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31052'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Families -- Fiction'
+title: Siska van Roosemael
+url: http://www.gutenberg.org/ebooks/31052
