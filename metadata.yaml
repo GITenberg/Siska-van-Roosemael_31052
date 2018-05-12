@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hendrik_Conscience
     - http://nl.wikipedia.org/wiki/Hendrik_Conscience
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31052#Siska-van-Roosemael
 gutenberg_issued: '2010-01-23'
 gutenberg_type: Text
 identifiers:
